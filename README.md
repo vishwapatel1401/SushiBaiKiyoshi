@@ -40,10 +40,10 @@ To run this project locally, follow these steps:
 -	Build the solution and run the application.
 
 ## Usage
-- **Customer View**:
+1. **Customer View**:
 - Navigate to the customer-facing part of the web application.
 - Browse through the menu and add items to your cart.
 - Proceed to checkout and place your order.
-- **Admin View**:
+2. **Admin View**:
 - Log in to the admin panel.
 - Manage customers, menu items, and orders through the admin interface.
