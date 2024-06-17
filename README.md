@@ -33,9 +33,12 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/vishwapatel1401/HerYesClub
 2. Navigate to the project directory
+   ```bash
    cd heryesclub
 3. Install dependencies
+   ```bash
    flutter pub get
 4. Run the application
+   ```bash
    flutter run
 
